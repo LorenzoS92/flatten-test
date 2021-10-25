@@ -5,6 +5,7 @@ Flatten class is a static PHP utility class that provides a way to flat an array
 ## Prerequisites
 
 [PHP](www.php.net)
+
 [Composer](https://getcomposer.org)
 
 ## How to use
